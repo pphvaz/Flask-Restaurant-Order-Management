@@ -1,4 +1,7 @@
 # Mr. Pizza: Flask-Based Online Pizza Ordering Platform
+
+##### This was submited as a Final Project to the Harvard's CS50X Introduction To Computer Science.
+
 #### Video Demo:  <https://youtu.be/bCzJjgbsmbU>
 #### Description:
 As a current employee at Mr. Pizza, I identified the necessity for an efficient and user-friendly online order management system. Leveraging Flask and Python programming, I've crafted a website that streamlines the pizza ordering process, providing a seamless and engaging platform for customers.
